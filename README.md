@@ -9,6 +9,9 @@ Week Of Commit - 한달간에 커밋과 레포 생성수를 그래프로 표현�
 |May|81|
 ```mermaid
 pie title Month Commit
-    "January" : 10
-    "
+    "January" : 51
+    "February" : 19
+    "March" : 109
+    "April" : 153
+    "May" : 81
 ```
