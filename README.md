@@ -26,7 +26,7 @@ pie title Month Created Repositories
 "January" : 5
 "February" : 1
 "March" : 1
-"April" : 2 
+"April" : 2
 "May" : 1
 "June" : 0
 ```
