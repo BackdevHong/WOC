@@ -14,6 +14,7 @@ Week Of Commit - 한달간에 커밋과 레포 생성수를 그래프로 표현�
 |September|34|3|
 |October|159|3|
 |November|30|1|
+|December|12|0|
 
 
 ```mermaid
@@ -29,6 +30,7 @@ pie title Month Commit
 "September": 34
 "October": 159
 "November": 30
+"December": 12
 ```
 
 ```mermaid
@@ -44,4 +46,5 @@ pie title Month Created Repositories
 "September": 3
 "October": 3
 "November": 1
+"December": 0
 ```
